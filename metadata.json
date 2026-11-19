@@ -1,0 +1,6 @@
+{
+  "name": "PESITM Transit",
+  "description": "Real-time College Bus Tracking and Student Notification System for PESITM, Shivamogga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
